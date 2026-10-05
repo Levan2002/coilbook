@@ -405,3 +405,63 @@ table.plans {
   position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
 }
+
+/* ---------- Guides ---------- */
+.guide-top{padding-top:34px;padding-bottom:56px}
+.crumbs{font-family:var(--mono);font-size:.82rem;color:var(--ink-2);margin:0 0 20px}
+.crumbs a{color:var(--ink-2)}
+.guide-art{max-width:720px;min-width:0}
+.guide-art h1{font-size:clamp(1.7rem,4.6vw,2.3rem);margin-bottom:.5em}
+.guide-art h2{margin:2em 0 .5em}
+.guide-art h3{margin:1.4em 0 .3em}
+.guide-art .lead{font-size:1.15rem;color:var(--ink-2)}
+.guide-art ul,.guide-art ol{padding-left:1.25em;margin:0 0 1em}
+.guide-art li+li{margin-top:6px}
+.guide-art .code{margin:1em 0 1.2em}
+.g-cta-row{margin:18px 0}
+.coil.g-end{margin-top:44px;padding-top:8px}
+.g-end h2{margin-top:16px}
+.g-list,.g-related ul{list-style:none;padding:0 !important}
+.g-list li,.g-related li{padding:12px 0;border-bottom:1px solid var(--rule)}
+.g-list a,.g-related li a{font-weight:600;display:block}
+.g-list span,.g-related li span{display:block;color:var(--ink-2);font-size:.92rem}
+
+/* ---------- Guides ---------- */
+.guide-top{padding-top:34px;padding-bottom:56px}
+.crumbs{font-family:var(--mono);font-size:.82rem;color:var(--ink-2);margin:0 0 20px}
+.crumbs a{color:var(--ink-2)}
+.guide-art{max-width:720px;min-width:0}
+.guide-art h1{font-size:clamp(1.7rem,4.6vw,2.3rem);margin-bottom:.5em}
+.guide-art h2{margin:2em 0 .5em}
+.guide-art h3{margin:1.4em 0 .3em}
+.guide-art .lead{font-size:1.15rem;color:var(--ink-2)}
+.guide-art ul,.guide-art ol{padding-left:1.25em;margin:0 0 1em}
+.guide-art li+li{margin-top:6px}
+.guide-art .code{margin:1em 0 1.2em}
+.g-cta-row{margin:18px 0}
+.coil.g-end{margin-top:44px;padding-top:8px}
+.g-end h2{margin-top:16px}
+.g-list,.g-related ul{list-style:none;padding:0 !important}
+.g-list li,.g-related li{padding:12px 0;border-bottom:1px solid var(--rule)}
+.g-list a,.g-related li a{font-weight:600;display:block}
+.g-list span,.g-related li span{display:block;color:var(--ink-2);font-size:.92rem}
+
+/* ---------- Guides ---------- */
+.guide-top{padding-top:34px;padding-bottom:56px}
+.crumbs{font-family:var(--mono);font-size:.82rem;color:var(--ink-2);margin:0 0 20px}
+.crumbs a{color:var(--ink-2)}
+.guide-art{max-width:720px;min-width:0}
+.guide-art h1{font-size:clamp(1.7rem,4.6vw,2.3rem);margin-bottom:.5em}
+.guide-art h2{margin:2em 0 .5em}
+.guide-art h3{margin:1.4em 0 .3em}
+.guide-art .lead{font-size:1.15rem;color:var(--ink-2)}
+.guide-art ul,.guide-art ol{padding-left:1.25em;margin:0 0 1em}
+.guide-art li+li{margin-top:6px}
+.guide-art .code{margin:1em 0 1.2em}
+.g-cta-row{margin:18px 0}
+.coil.g-end{margin-top:44px;padding-top:8px}
+.g-end h2{margin-top:16px}
+.g-list,.g-related ul{list-style:none;padding:0 !important}
+.g-list li,.g-related li{padding:12px 0;border-bottom:1px solid var(--rule)}
+.g-list a,.g-related li a{font-weight:600;display:block}
+.g-list span,.g-related li span{display:block;color:var(--ink-2);font-size:.92rem}
